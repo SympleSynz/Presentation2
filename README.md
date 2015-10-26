@@ -31,13 +31,13 @@
 
 - **Boards** in Trello represent the overall project. A **Board** contains **Lists** which relate to a list of tasks that need to be completed. These **Lists** are made up of **Cards** that correspond to specific tasks. Each element of a Trello board is broken up into easily organized, easy to read subgroupings. Users that are collaborating on a project have their own personal accounts and share the board. Each user can then be assigned to specific tasks and make updates about the tasks for the rest of the team to be able to see. Users may also be removed or add at any time to any of the cards.  As cards are update and meet new requirements, they can moved to new lists across the board. Typically, the last list on the board is the completed list, so when cards are completed, they are moved to that list. 
 
-**For a look at all the elements of the UI and functionalities [click here] (http://synz0331.github.io/Presentation2/ "Trello Details"). **
+*For a look at all the elements of the UI and functionalities [click here] (http://synz0331.github.io/Presentation2/ "Trello Details").*
 
 - Nearly everything on a Trello board can be customized, by adding additional lists, additional cards, removing any list or card when necessary and labeling based on the project requirements. Trello is initially web-based, but include an app supported on iPhone, Android and Windows 8/10 since 2014. The app will sync up with the web-based board for users that are on the go and not near their computers. Even with the app, users still have the option to also use the mobile web browsers.
 
 - "Millions of people and companies of all kinds and sizes love using Trello" is stated on Trello's About page indicating that Freshdirect, The New York Times, 53, The Verge, Adobe, tumblr., Google, PayPal, and Kickstarter all use Trello to complete projects [3].
 
-**For further information and touring the Trello functionality, click [Trello] (https://trello.com/tour "Trello Tour").**
+*For further information and touring the Trello functionality, click [Trello] (https://trello.com/tour "Trello Tour").*
 
 ###Conclusion
 
