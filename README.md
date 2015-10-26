@@ -37,7 +37,7 @@
 
 ###Conclusion
 
-- Since a single "silver bullet" is not a viable solution for software development, creating tools and methodologies to reduce the work load and increase efficiency of software development in small parts is the next approach. 
+- Since a single "silver bullet" is not a viable solution for software development, creating tools and methodologies to reduce the work load and increase efficiency of software development in small parts is the next approach. As computers and mobile devices become more integrated with every day life, software development appears to be increasing as well. Trello, Rally, Agile methodologies and more continue to be created to help make software development faster and more efficient. Trello is a light-weight project management tool that coordinates with the "On-The-Go" pace of today's society.
 
 ###References
 
