@@ -27,40 +27,40 @@
 	"image": "Screenshot 2015-10-26 14.06.53.png"
 },
 {
-    "description": "Now we will create a new sprite by clicking the 'choose sprite from library' button in the sprite area.",
-    "image": "NewSprite.png"
+    "description": "To the right of the card details is this menu of options. By selecting them, the user can ensure further details on the card.",
+    "image": "Screenshot 2015-10-26 14.58.10.png"
 },
 {
-	"description": "We are going to use a sprite image already in the library for some background scenery.  Select the cloud image to create a cloud sprite.",
-	"image": "Cloud1Sprite.PNG"
+	"description": "The menu option to add members to this card.",
+	"image": "Screenshot 2015-10-26 14.58.28.png"
 },
 {
-	"description": "We are going to click and hold the image of the cloud in the Stage area, and drag it up to the upper left side for placement.",
-	"image": "Cloud1Placement.PNG"
+	"description": "The menu to color code the labels for coordination of the cards. By selecting the edit button on the right of the color block, allows the users to change those colors.",
+	"image": "Screenshot 2015-10-26 14.58.40.png"
 },
 {
-	"description": "This cloud is going to be rolling by in the side scroller, so we will need to add a script to the sprite. Every sprite can have its own script to act independently from other sprites. For this cloud, we want it to start the movement the same time the cat sprite moves. So we grab the same event block as the cat sprite.",
-	"image": "Cloud1Start.PNG"
+	"description": "This menu is a checklist option.",
+	"image": "Screenshot 2015-10-26 14.58.57.png"
 },
 {
-	"description": "The cloud will be moving, so we will grab the 'change x by []' block from the Motion category and attach it to our starting block.",
-	"image": "Cloud1Move.PNG"
+	"description": "This menu is for if a particular card has a due date and time that can be set.",
+	"image": "Screenshot 2015-10-26 14.58.57.png"
 },
 {
-	"description": "We will change the value of x to change by a -1 because we want the cloud to move to the left while the cat sprite looks like it is moving to the right.",
-	"image": "Cloud1ChangeMove.PNG"
+	"description": "This menu is selected if the user request to attach a file or link to the card.",
+	"image": "Screenshot 2015-10-26 14.59.12.png"
 },
 {
-	"description": "We then grab the 'if' block from the control category and add it to the stack.",
-	"image": "Cloud1If.PNG"
+	"description": "The second half is the actions section. This menu is selected is the card needs to be moved to a different board or list.",
+	"image": "Screenshot 2015-10-26 14.59.21.png"
 },
 {
-	"description": "When the cloud hits the edge of the window, we want something to happen. This is the purpose of the 'if' block. We need to add a conditional block to the 'if' block, so we grab the '[] < []' block from the operators category",
-	"image": "Cloud1Operator.PNG"
+	"description": "This menu is selected if the user would like to copy a card. Though its copied, it can still have a name change. It can also be placed onto a different board or list. Within the list, the position can be selected.",
+	"image": "Screenshot 2015-10-26 14.59.32.png"
 },
 {
-	"description": "Grabbing the 'x position' block from the motion category and adding it to the left side of the '[] < []' block, will allow a comparison of the x position of the cloud sprite to whatever value is on the right.",
-	"image": "Cloud1XPosition.PNG"
+	"description": "This menu is for the ability to share the card or adding a link to the card. This card can be emailed to other members as well.",
+	"image": "Screenshot 2015-10-26 15.00.00.png"
 },
 {
 	"description": "Since the stage window is only -240 x 240 for a size on the x-axis, we will set the value to be -280, so that the cloud will go off the window. But the entire cloud is unable to disappear, so we will add a 'hide' block to make the sprite disappear once its x position is less that -280.",
