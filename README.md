@@ -23,7 +23,7 @@
 
 - The uses of Trello is found in a variety of fields, including work and personal uses. These fields include real estate management, software project management, school bulletin boards, etc [1].
 
-- Even though the base functionalities of Trello are free, but a paid premium is offered for additional services. 
+- Even though the base functionalities of Trello are free, but a paid premium is offered for additional services. However, Trello Gold services can be obtained for free if the user invites more people to trello. Trello Gold allows for other background options, emoji, larger images, and many other attributes. 
 
 ###Trello Details
 
