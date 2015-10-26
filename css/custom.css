@@ -7,6 +7,10 @@
 .person .role { font-size: 90%;}
 
 img {
+<<<<<<< HEAD
 	max-width:50%;
+=======
+	max-width:75%;
+>>>>>>> 76f19bf4a9e19c50b01b06b8ae5f0aa648efc37f
 	border: 1px grey solid;
 }
