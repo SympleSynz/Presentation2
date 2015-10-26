@@ -63,44 +63,44 @@
 	"image": "Screenshot 2015-10-26 15.00.00.png"
 },
 {
-	"description": "Since the stage window is only -240 x 240 for a size on the x-axis, we will set the value to be -280, so that the cloud will go off the window. But the entire cloud is unable to disappear, so we will add a 'hide' block to make the sprite disappear once its x position is less that -280.",
-	"image": "Cloud1Hide.PNG"
+	"description": "On the right side of the main user page is a Menu section. Within this section allows the user to Add members to the trello board, changing the main background, filter out the cards, upload power-ups, and has an activity monitor of the usage.",
+	"image": "Screenshot 2015-10-26 15.15.45.png"
 },
 {
-	"description": "Ultimately, we will have a second cloud sprite that will be moving across the top of the window, that's why we want this cloud sprite to stay hidden for a short period of time as the other one travels across the screen. This will give the impression of the cat moving slowly. We grab the 'wait [] secs' block from the control category and change the time to 14.",
-	"image": "Cloud1Wait.PNG"
+	"description": "This menu allows the user to add group members by adding the user names in the search box.",
+	"image": "Screenshot 2015-10-26 15.16.41.png"
 },
 {
-	"description": "After waiting, we want the cloud sprite to appear again, so we grab the 'show' block from the looks category and add it to the stack, inside the 'if' block.",
-	"image":"Cloud1Show.PNG"
+	"description": "The user can change the background to user preference to other solid colors or images if the user is under the Trello Gold or Business Class.",
+	"image":"Screenshot 2015-10-26 15.16.51.png"
 },
 {
-	"description": "The cloud sprite needs to be reset to the other side of the window, so we grab the 'set x to []' block from the motion category and add it as the last block in the 'if' block. Then we add the value 300 to the same block so that the cloud sprite starts off the window.",
-	"image":"Cloud1SetX.PNG"
+	"description": "This menu allows for creating and changing the colors of the labels for the filter cards. Then the user can select and due date.",
+	"image":"Screenshot 2015-10-26 15.17.00.png"
 },
 {
-	"description": "Now this cloud sprite's script is complete",
-	"image": "Cloud1Script.PNG"
+	"description": "The power-ups are explained in the images shown below. The are additional functionality and attributes to the menus or cards. ",
+	"image": "Screenshot 2015-10-26 15.17.12.png"
 },
 {
-	"description": "But we want another cloud sprite to be moving the exact same as the first. This is where we will use the duplicate tool at the top of the screen. We will hit that icon click the cloud sprite in the Sprite area.",
-	"image": "CloudDuplicate.PNG"
+	"description": "These are a few examples of the possible free power-ups. The user can place aging attributes to the card when the due date has passed for the particular activity.",
+	"image": "Screenshot 2015-10-26 15.17.32.png"
 },
 {
-	"description": "When we select cloud2, we see that it has the exact same script as the first cloud. The duplicate tool copied everything over.",
-	"image": "Cloud2.PNG"
+	"description": "Also, is the ability to enable a calendar that will allow for accessing the trello in a calendar view rather than a column list view.",
+	"image": "Screenshot 2015-10-26 15.17.40.png"
 },
 {
-	"description": "We will move the clouds around to be placed where we want them to start once the scripts start to run.",
-	"image": "CloudsPlacement.PNG"
+	"description": "This option enables the ability for users to vote on the cards, that can be accessed later. It will show a list of the number of users and how many votes for each of the cards.",
+	"image": "Screenshot 2015-10-26 15.17.48.png"
 },
 {
-	"description": "Next, we need a background. So we select the backdrop found in the Sprite area. Notice how the Costume tab has now changed to say 'Backdrop'.",
-	"image": "Backdrop.PNG"
+	"description": "The last menu option on the first screen is the More tab. This provides the ability to reach settings, stickers, labels, archived items, and others that are described below.",
+	"image": "Screenshot 2015-10-26 15.36.15.png"
 },
 {
-	"description": "We'll add a gradiant blue color to the backdrop by selecting the paint can (to fill), the gradiant option (to style), and the blue color from the palette.",
-	"image": "BackdropColor.PNG"
+	"description": ".",
+	"image": "Screenshot 2015-10-26 15.36.26.png"
 },
 {
 	"description": "We need a ground for the cat sprite to walk on, so we will use the rectangle tool, with the solid box option, and the redish brown color from the palette, and select a rectangled area toward the bottom of the backdrop.",
