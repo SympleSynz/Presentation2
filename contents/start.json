@@ -119,58 +119,30 @@
 	"image": "Screenshot 2015-10-26 15.37.04.png"
 },
 {
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
+	"description": "The cards can be printed and exported.",
+	"image": "Screenshot 2015-10-26 15.37.10.png"
 },
 {
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
+	"description": "The description on how boards can be closed from this menu.",
+	"image": "Screenshot 2015-10-26 15.37.16.png"
 },
 {
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
+	"description": "There are multiple areas for linking, but this is one menu section that allows for the link to this board to be placed.",
+	"image": "Screenshot 2015-10-26 15.37.21.png"
 },
 {
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
+	"description": "By selecting the + sign option to the top right of the main page, allows the users to access the ability to create a board and to create personal or business teams.",
+	"image": "Screenshot 2015-10-26 15.57.31.png"
 },
 {
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
+	"description": "To access personal user setting, the user name at the top of the screen can be selected. This shows help options, shortcuts, getting started guides, settings, and further details of using Trello.",
+	"image": "Screenshot 2015-10-26 15.57.49.png"
 },
 {
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
+	"description": "Next to the board title, the privacy settings can be accessed by selecting the tab Private. This will allow the user to select private or public.",
+	"image": "Screenshot 2015-10-26 15.58.11.png"
 },
 {
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
-},
-{
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
-},
-{
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
-},
-{
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
-},
-{
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
-},
-{
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
-},
-{
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
-},
-{
-	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
-	"image": ""
-},]
+	"description": "Next to the user name is the bell symbol that is for the notifications to be listed when changes occur to the cards or boards.",
+	"image": "Screenshot 2015-10-26 16.05.14.png"
+}]
