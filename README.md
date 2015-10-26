@@ -23,8 +23,14 @@ One of the things expressed in Foundations of Software Engineering is that softw
 
 The uses of Trello is found in a variety of fields, including work and personal uses. These fields include real estate management, software project management, school bulletin boards, etc [1].
 
+###Trello Details
+
+As mentioned above, Trello uses the kanban paradigm. According to Wikipedia's Kanban page, Kanban is a Japanese word that literally translates to signboard or billboards. Kanban is a scheduling system that focuses on Lean manufacturing and Just-In-Time production methodologies [3]. Trello uses boards, lists and cards to organize tasks in an easy to read and understand format for project management. 
+
+**Boards** in Trello represent the overall project. A **Board** contains **Lists** which relate to a list of tasks that need to be completed. These **Lists** are made up of **Cards** that correspond to specific tasks. Each element of a Trello **Board** is broken up into easily organized, easy to read subgroupings. Users that are collaborating on a project have their own personal accounts and share the **Board**. 
 
 ###References
 
 [1] "Trello", https://en.wikipedia.org/wiki/Trello<br>
-[2] "A Special Announcement: Trello is Now part of Trello, Inc", https://en.wikipedia.org/wiki/Trello
+[2] "A Special Announcement: Trello is Now part of Trello, Inc", https://en.wikipedia.org/wiki/Trello<br>
+[3] "Kanban", https://en.wikipedia.org/wiki/Kanban
