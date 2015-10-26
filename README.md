@@ -29,7 +29,7 @@
 
 - As mentioned above, Trello uses the kanban paradigm. According to Wikipedia's Kanban page, Kanban is a Japanese word that literally translates to signboard or billboards. Kanban is a scheduling system that focuses on Lean manufacturing and Just-In-Time production methodologies [4]. Trello uses boards, lists and cards to organize tasks in an easy to read and understand format for project management. 
 
-- **Boards** in Trello represent the overall project. A **Board** contains **Lists** which relate to a list of tasks that need to be completed. These **Lists** are made up of **Cards** that correspond to specific tasks. Each element of a Trello board is broken up into easily organized, easy to read subgroupings. Users that are collaborating on a project have their own personal accounts and share the board. Each user can then be assigned to specific tasks and make updates about the tasks for the rest of the team to be able to see. Users may also be removed or add at any time to any of the cards.  As cards are update and meet new requirements, they can moved to new lists across the board. Typically, the last list on the board is the completed list, so when cards are completed, they are moved to that list. For a look at all the elements of the UI and functionalities [click here] (http://synz0331.github.io/Presentation2/ "Trello Details")
+- **Boards** in Trello represent the overall project. A **Board** contains **Lists** which relate to a list of tasks that need to be completed. These **Lists** are made up of **Cards** that correspond to specific tasks. Each element of a Trello board is broken up into easily organized, easy to read subgroupings. Users that are collaborating on a project have their own personal accounts and share the board. Each user can then be assigned to specific tasks and make updates about the tasks for the rest of the team to be able to see. Users may also be removed or add at any time to any of the cards.  As cards are update and meet new requirements, they can moved to new lists across the board. Typically, the last list on the board is the completed list, so when cards are completed, they are moved to that list. For a look at all the elements of the UI and functionalities [click here] (http://synz0331.github.io/Presentation2/ "Trello Details").
 
 - Nearly everything on a Trello board can be customized, by adding additional lists, additional cards, removing any list or card when necessary and labeling based on the project requirements. Trello is initially web-based, but include an app supported on iPhone, Android and Windows 8/10 since 2014. The app will sync up with the web-based board for users that are on the go and not near their computers. Even with the app, users still have the option to also use the mobile web browsers.
 
@@ -43,5 +43,5 @@
 
 [1] "Trello", https://en.wikipedia.org/wiki/Trello<br>
 [2] "A Special Announcement: Trello is Now part of Trello, Inc", https://en.wikipedia.org/wiki/Trello<br>
-[3] "About Trello", https://trello.com/about
+[3] "About Trello", https://trello.com/about<br>
 [4] "Kanban", https://en.wikipedia.org/wiki/Kanban
