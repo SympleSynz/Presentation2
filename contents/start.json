@@ -99,18 +99,78 @@
 	"image": "Screenshot 2015-10-26 15.36.15.png"
 },
 {
-	"description": ".",
+	"description": "The permissions of the cards, the page, and the members can be changed within the settings. The main user can allow team members to join a particular board without being invited if the permissions are set accordingly.",
 	"image": "Screenshot 2015-10-26 15.36.26.png"
 },
 {
-	"description": "We need a ground for the cat sprite to walk on, so we will use the rectangle tool, with the solid box option, and the redish brown color from the palette, and select a rectangled area toward the bottom of the backdrop.",
-	"image": "BackdropGroundSelect.PNG"
+	"description": "If the user desires, stickers can be added. The stickers allow for a visual flair to the cards that can assist with communicating the card status.",
+	"image": "Screenshot 2015-10-26 15.36.34.png"
 },
 {
-	"description": "Once created, an option is available to move the rectangle around, rotate it, or even resize it. But we don't want to do any of that, so we will select off the backdrop.",
-	"image": "BackdropGroundSet.PNG"
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": "Screenshot 2015-10-26 15.36.45.png"
 },
 {
-	"description": "Final step, we click and hold the cat sprite and move it to be over the ground. The scripts for all the sprites are done and the background is set. The Scratch program is complete and ready to be run. Move the cursor into the stage area and press the right arrow key to see the program run.",
-	"image": "CatPlacement.PNG"
-}]
+	"description": "The user can email the boards to others under the email to board section under settings.",
+	"image": "Screenshot 2015-10-26 15.36.54.png"
+},
+{
+	"description": "In this section, the user can copy the boards as well and can be selected for private.",
+	"image": "Screenshot 2015-10-26 15.37.04.png"
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},
+{
+	"description": "The cards can be archived when the user doesn't want them on the screen. Under this menu, the archived cards can be found in this list and viewed.",
+	"image": ""
+},]
