@@ -1,30 +1,30 @@
 [{
-    "description": "For this side scroller, we will use the starting cat sprite. By clicking on the costume tab, we can see that there are two images for the cat sprite.",
-    "image": "BlankWindow2.PNG"
+    "description": "This is the initial trello page when an account has been created.",
+    "image": "Screenshot 2015-10-26 13.47.02.png"
 },
 {
-    "description": "Those two 'costumes' are the images the cat sprite can switch between the two. By switching between the two costumes, the sprite will give the impression of movement. So, to start, we want to grab the block 'next costume' under the look category.",
-    "image": "NextCostume.PNG"
+    "description": " The main boards page. Will show a list of boards that have been created by the user and options below to either create a new board, keeping the menu open, or see all the closed boards.",
+    "image": "Screenshot 2015-10-26 13.47.19.png"
 },
 {
-    "description": "We do want a hesitation between the costume changes to make sure that the switching isn't going too fast. We will grab the 'wait 1 sec' block, under the control category, and place it on top of the 'next costume' block. We will then change the time to 0.25",
-    "image": "WaitCostume.PNG"
+    "description": "When the user would like to create a new board, selecting the create new boards link, will provide this menu option. Here you can place the name of the new board you wish to create. Also, whether you would like for it to be private or not. After selecting a title, then select create.",
+    "image": "Screenshot 2015-10-26 14.05.37.png"
 },
 {
-    "description": "Because 1 sec is too long, we will change the value to 0.25",
-    "image": "ChangeWaitCostume.PNG"
+    "description": "Once the board has been created, this is the available menu. It will show the title of the board created and allow for input of lists. After entering a list title, click save.",
+    "image": "Screenshot 2015-10-26 14.05.47.png"
 },
 {
-    "description": "To initiate the sprite movement, we need a way to start the script. Going to the event categoy, we will use the 'when space key pressed' and attach it to the top of the block stack.",
-    "image": "StartCat.PNG"
+    "description": "The left side of the image is a created list. The right side is the same menu as before that allows for more lists to be created.",
+    "image": "Screenshot 2015-10-26 14.06.03.png"
 },
 {
-    "description": "We will select the downward triangle next to the word space to get the drop down window. And we will select 'right arrow'.",
-    "image": "DropDownCostume.PNG"
+    "description": "This shows the ability to create a new card. Cards are the reminders or lists within the category iteself. After writing in the card title, click add.",
+    "image": "Screenshot 2015-10-26 14.06.41.png"
 },
 {
-	"description": "Now the cat sprite and script has been completed, we can work on the rest of the scene.",
-	"image": "CatCostumeScript.PNG"
+	"description": "After the card is created, this is the viewer window when clicking the pencil or edit to the right of the card. These are the full details within the card. You can add notes, edit the descriptions, and see the activity log of this card.",
+	"image": "Screenshot 2015-10-26 14.06.53.png"
 },
 {
     "description": "Now we will create a new sprite by clicking the 'choose sprite from library' button in the sprite area.",
